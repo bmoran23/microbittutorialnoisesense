@@ -10,6 +10,10 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/bmoran23/microbittutorialnoisesense** and import
 
+#links
+(https://bmoran23.github.io/microbittutorialnoisesense/noiseTutorial)
+To start the tutorial: (https://makecode.microbit.org/#tutorial:github:bmoran23/microbittutorialnoisesense/noiseTutorial)
+
 ## Edit this project
 
 To edit this repository in MakeCode.
