@@ -36,7 +36,7 @@ basic.forever(function() {
 ## Step 4
 
 ```blocks
-Strip.show()
+strip.show()
 ```
 ```package
 neopixel=github:microsoft/pxt-neopixel
