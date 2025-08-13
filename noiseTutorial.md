@@ -20,8 +20,15 @@ Add a ``||logic:if true then||`` block.
 ## Step 2
 Drag the ``||basic:show leds||`` block into the ``||basic:forever||`` block. 
 
-## Step 3
+## Step 3 - Show the temperature
+
+Get a ``||input:temperature||`` block and place it in the value slot of ``||basic:show number||``.
+
 ```blocks
-basic.showNumber(4) ```
+forever(function() {
+    basic.showNumber(input.temperature())
+    basic.pause(1000)
+})
+```
 
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
