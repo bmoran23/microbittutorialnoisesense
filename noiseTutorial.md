@@ -27,6 +27,7 @@ Get a ``||input:temperature||`` block and place it in the value slot of ``||basi
 ```blocks
 basic.forever(function() {
     basic.showNumber(input.temperature())
+    basic.ShowString("Hello")
 })
 ```
 
