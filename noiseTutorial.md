@@ -33,4 +33,12 @@ basic.forever(function() {
 })
 ```
 
+## Step 4
+
+```package
+devices
+bluetooth
+neopixel=github:microsoft/pxt-neopixel#v0.6.12
+```
+
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
