@@ -1,6 +1,8 @@
 
 > Open this page at [https://bmoran23.github.io/microbittutorialnoisesense/](https://bmoran23.github.io/microbittutorialnoisesense/)
 
+
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
@@ -13,6 +15,8 @@ This repository can be added as an **extension** in MakeCode.
 #links
 (https://bmoran23.github.io/microbittutorialnoisesense/noiseTutorial)
 To start the tutorial: (https://makecode.microbit.org/#tutorial:github:bmoran23/microbittutorialnoisesense/noiseTutorial)
+
+(https://makecode.microbit.org/#recipe:github:bmoran23/microbittutorialnoisesense/noiseTutorial)
 
 ## Edit this project
 
