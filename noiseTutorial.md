@@ -30,6 +30,7 @@ basic.forever(function() {
     basic.showString("Hello")
     basic.showIcon(IconNames.Chessboard)
     basic.pause(100)
+    radio.sendMessage(0)
 
 })
 ```
@@ -38,10 +39,10 @@ basic.forever(function() {
 
 ```blocks
 strip.show()
-strip.
 ```
 ```package
 neopixel=github:microsoft/pxt-neopixel
+
 ```
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
