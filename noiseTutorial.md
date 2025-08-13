@@ -35,8 +35,6 @@ basic.forever(function() {
 
 ## Step 4
 
-
-
 ```blocks
 strip.show()
 ```
