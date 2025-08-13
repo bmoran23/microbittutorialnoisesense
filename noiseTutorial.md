@@ -35,11 +35,7 @@ basic.forever(function() {
 
 ## Step 4
 
-```package
-devices
-bluetooth
-neopixel=github:microsoft/pxt-neopixel#v0.6.12
-```
+
 
 ```blocks
 (strip)show
