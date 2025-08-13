@@ -29,6 +29,7 @@ basic.forever(function() {
     basic.showNumber(input.temperature())
     basic.showString("Hello")
     basic.showIcon(IconNames.Chessboard)
+    basic.pause(100)
 
 })
 ```
@@ -37,6 +38,7 @@ basic.forever(function() {
 
 ```blocks
 strip.show()
+strip.
 ```
 ```package
 neopixel=github:microsoft/pxt-neopixel
