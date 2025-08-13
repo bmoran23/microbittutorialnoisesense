@@ -34,7 +34,9 @@ basic.forever(function() {
 ```
 
 ## Step 4
-
+```package
+neopixel=github:microsoft/pxt-neopixel
+```
 
 
 ```blocks
