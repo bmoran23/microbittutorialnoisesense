@@ -56,7 +56,7 @@ while (true) {
     let z = input.acceleration(Dimension.Z) / 2;
     strip.shift(1);
     strip.setPixelColor(0, neopixel.rgb(x, y, -z));
-    strip.show();
+    neopixel.strip.show();
     basic.pause(100);
 }
 ```
