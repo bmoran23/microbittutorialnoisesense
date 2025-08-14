@@ -41,9 +41,7 @@ basic.forever(function() {
 ```blocks
 basic.forever(function() {
     strip.show()
-    Strip.show()
-    strip.Show()
-    Strip.Show()
+
 
 })
 ```
