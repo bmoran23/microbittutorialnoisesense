@@ -7,7 +7,8 @@
         "radio": "*",
         "microphone": "*",
         "neopixel": "github:microsoft/pxt-neopixel",
-        "radio-broadcast": "*"
+        "radio-broadcast": "*",
+        "datalogger": "*"
     },
     "files": [
         "main.blocks",
