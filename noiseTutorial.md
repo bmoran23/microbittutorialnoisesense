@@ -32,6 +32,8 @@ basic.forever(function() {
     basic.pause(100)
     radio-broadcast.sendMessage(0)
     datalogger.setColumnTitles("temperature", "acceleration", "light")
+    sendMessage(0)
+    radio.sendMessage(0)
 
 })
 ```
