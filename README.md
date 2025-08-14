@@ -1,7 +1,4 @@
 
-> Open this page at [https://bmoran23.github.io/microbittutorialnoisesense/](https://bmoran23.github.io/microbittutorialnoisesense/)
-
-
 
 ## Use as Extension
 
