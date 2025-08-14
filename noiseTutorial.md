@@ -64,7 +64,7 @@ while (true) {
 ```package
 radio
 datalogger
-neopixel=github:microsoft/pxt-neopixel2
+neopixel=github:microsoft/pxt-neopixel
 ```
 
 
