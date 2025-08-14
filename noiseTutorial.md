@@ -40,7 +40,7 @@ basic.forever(function() {
 
 ```blocks
 basic.forever(function() {
-    neopixel.strip.show()
+    neopixel.show()
 
 
 })
