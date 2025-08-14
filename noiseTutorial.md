@@ -31,6 +31,7 @@ basic.forever(function() {
     basic.showIcon(IconNames.Chessboard)
     basic.pause(100)
     radio.sendMessage(0)
+    datalogger.setColumnTitles("temperature", "acceleration", "light")
 
 })
 ```
