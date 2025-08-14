@@ -30,7 +30,7 @@ basic.forever(function() {
     basic.showString("Hello")
     basic.showIcon(IconNames.Chessboard)
     basic.pause(100)
-    radio.sendMessage(0)
+    radio-broadcast.sendMessage(0)
     datalogger.setColumnTitles("temperature", "acceleration", "light")
 
 })
@@ -40,17 +40,11 @@ basic.forever(function() {
 
 ```blocks
 basic.forever(function() {
-    strip.show()
+    neopixel.strip.show()
 
 
 })
 ```
-```package
-neopixel=github:microsoft/pxt-neopixel
-radio-broadcast=github:microsoft/pxt-common-packages
-datalogger=github:microsoftpxt-microbit/libs/datalogger
-datalogger=github:microsoftpxt-microbit
 
-```
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
